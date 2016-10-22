@@ -1,3 +1,4 @@
+// Programma om vreselijk geluid mee te maken
 
   int sensorValue ;
   int sensorLow = 1023;
